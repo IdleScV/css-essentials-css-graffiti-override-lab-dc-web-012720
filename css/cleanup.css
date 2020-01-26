@@ -1,1 +1,12 @@
 /* write your override styles here */
+body div div {
+  display: none;
+}
+
+body div #tag-3 img{
+  display: none;
+}
+
+body dive #tag-2 img{
+  display: none;
+}
